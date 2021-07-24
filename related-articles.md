@@ -1,0 +1,21 @@
+# Related Articles
+
+- OCP-PCIe bridge
+  - <https://github.com/KCORES/OCP2PCIe>
+  - <https://github.com/Turnedback/OCP2-Pcie>
+  - <https://github.com/xiaoxinpro/OCP2PCIe-AltiumDesigner>
+- FlexibleLOM
+  - <https://github.com/KCORES/KCORES-FlexibleLOM-Adapter>
+  - <https://github.com/meHobby/KCORES-FlexibleLOM-Adapter-1U>
+  - <https://github.com/TobleMiner/HPE-FlexibleLOM-adapter>
+  - <https://github.com/marrobHD/HPE-FlexibleLOM-adapter-extended>
+- Broadcom Ethernet Network Adapthers
+  - <https://www.broadcom.com/products/ethernet-connectivity/network-adapters>
+- HPE
+  - <https://support.hpe.com/hpesc/public/docDisplay?docId=emr_na-a00106666en_us>
+- Chinese Articles
+  - <https://post.smzdm.com/p/anx3702v/>
+  - <https://post.smzdm.com/p/a6dookvo/>
+  - <https://post.smzdm.com/p/av7om33p/>
+  - <https://post.smzdm.com/p/aoo89536/>
+  - <https://post.smzdm.com/talk/p/a6dl3xoo/>
